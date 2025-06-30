@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/xWalk_import_Sun/:/",
-    "/content/xWalk_import_Sun/configuration:/.helix/config.json",
-    "/content/xWalk_import_Sun/metadata:/metadata.json"
+    "/content/xWalk-import-Sun/:/",
+    "/content/xWalk-import-Sun/configuration:/.helix/config.json",
+    "/content/xWalk-import-Sun/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/xWalk_import_Sun/"
+    "/content/xWalk-import-Sun/"
   ]
 }
